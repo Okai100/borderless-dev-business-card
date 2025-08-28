@@ -1,0 +1,38 @@
+body{
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.heading{
+    color: white;
+    margin-left: 880px;
+    margin-top: 50px;
+    font-size: 30px;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: bold;
+} 
+.heading1{
+    color: white;
+    margin-left: 880px;
+    font-size: 20px;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: lighter;
+    margin-bottom: 5px;
+    
+}
+.brand{
+    color: white;
+    margin-left: 100px;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: transparent;
+    border-color: transparent;
+    margin-top: 50px;
+}
+p{
+    margin-left: 900px;
+    color: white;
+}
